@@ -22,12 +22,12 @@ O provedor entrega um produto completo e pronto para o uso final através da int
  Analogia: Pegar um táxi ou Uber. Você só consome o serviço para se deslocar, sem se preocupar com a manutenção ou direção do carro.
  3. O que é um Deploy Simples?
 Deploy (ou implantação) é o processo de colocar um sistema, site ou funcionalidade no ar, tornando-o acessível para os usuários finais.
-    Deploy Simples geralmente envolve enviar o código que foi desenvolvido localmente no seu computador para um servidor na nuvem (geralmente usando uma plataforma PaaS para automatizar e simplificar o processo).
+Deploy Simples geralmente envolve enviar o código que foi desenvolvido localmente no seu computador para um servidor na nuvem (geralmente usando uma plataforma PaaS para automatizar e simplificar o processo).
  Fluxo básico de um Deploy Simples:
- 1. Desenvolvimento: O programador escreve o código na sua máquina local.
- 2. Versionamento: O código é enviado para um repositório remoto (como o GitHub).
- 3. Publicação (Deploy): Uma plataforma (como Vercel, Netlify ou Render) se conecta ao GitHub, puxa o código atualizado e o distribui em um servidor.
- 4. Acesso: O site ou sistema ganha uma URL pública (ex: meusite.com) e fica disponível na internet.
- 3. *Versionamento:* O código é enviado para um repositório remoto (como o GitHub).
+    Desenvolvimento: O programador escreve o código na sua máquina local.
+    Versionamento: O código é enviado para um repositório remoto (como o GitHub).
+    Publicação (Deploy): Uma plataforma (como Vercel, Netlify ou Render) se conecta ao GitHub, puxa o código atualizado e o distribui em um servidor.
+    Acesso: O site ou sistema ganha uma URL pública (ex: meusite.com) e fica disponível na internet.
+    Versionamento: O código é enviado para um repositório remoto (como o GitHub).
  4. *Publicação (Deploy):* Uma plataforma (como Vercel, Netlify ou Render) se conecta ao GitHub, puxa o código atualizado e o distribui em um servidor.
  5. *Acesso:* O site ou sistema ganha uma URL pública (ex: meusite.com) e fica disponível na internet.
